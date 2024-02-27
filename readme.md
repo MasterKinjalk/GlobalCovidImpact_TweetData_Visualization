@@ -69,4 +69,3 @@ This project serves as a foundation for further exploration:
 * Add a **time slider** to track sentiment and word usage trends over time.
 * Consider incorporating **network analysis** to visualize relationships between countries based on tweet content.
 
-By leveraging these enhancements, you can gain deeper insights into global public sentiment and word usage surrounding the COVID-19 pandemic through the lens of Twitter data.
