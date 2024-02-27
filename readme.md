@@ -6,6 +6,12 @@ This project is a Dash application designed to visualize **COVID-19 sentiment an
 
 ![Word Densities](wordsearch.png)
 
+**Video Demonstration:**
+
+Due to privacy restrictions, the video demonstration is not publicly available. If you'd like to see the application in action, please contact the project maintainer.
+
+See the application in action: [Click here to watch the video](https://drive.google.com/file/d/18YyPv2giGqdnRauKHCIgzR12GC-cYR7k/view?usp=sharing)
+
 ## Getting Started
 
 ### Prerequisites
