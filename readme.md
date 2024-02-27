@@ -2,6 +2,10 @@
 
 This project is a Dash application designed to visualize **COVID-19 sentiment and word usage** in tweets across different countries. It allows users to explore **sentiment analysis and word frequency** on a **global scale** through interactive **choropleth maps and bar charts**.
 
+![World Sentiments Map](Sentiment.png)
+
+![Word Densities](wordsearch.png)
+
 ## Getting Started
 
 ### Prerequisites
