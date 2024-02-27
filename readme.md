@@ -79,3 +79,7 @@ This project serves as a foundation for further exploration:
 * Add a **time slider** to track sentiment and word usage trends over time.
 * Consider incorporating **network analysis** to visualize relationships between countries based on tweet content.
 
+## Main Contributors
+* Kinjalk Parth(kinjalk2@illinois.edu)
+* Kevin Liu(kevindl2@illinois.edu)
+* Avni Mohan(avnim2@illinois.edu)
