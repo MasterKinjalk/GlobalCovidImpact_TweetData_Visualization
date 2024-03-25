@@ -14,7 +14,7 @@ See the application in action: [Click here to watch the video](https://drive.goo
 
 ## Link to the Deployed Visulization 
 
-Click to play with the Visulization: [Click here] https://covid-sent-viz-3ywn.onrender.com/
+Click to play with the Visulization: [Click here](https://covid-sent-viz-3ywn.onrender.com/)
 
 ## Getting Started
 
