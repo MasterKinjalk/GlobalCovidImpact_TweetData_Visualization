@@ -12,6 +12,10 @@ Due to privacy restrictions, the video demonstration is not publicly available. 
 
 See the application in action: [Click here to watch the video](https://drive.google.com/file/d/18YyPv2giGqdnRauKHCIgzR12GC-cYR7k/view?usp=sharing)
 
+## Link to the Deployed Visulization 
+
+Click to play with the Visulization: [Click here] https://covid-sent-viz-3ywn.onrender.com/
+
 ## Getting Started
 
 ### Prerequisites
